@@ -4,7 +4,7 @@
     <list default="true" id="b949d4da-1150-418c-87cc-4f26fd24938f" name="Default" comment="" />
     <ignored path="adieu-claudine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="b949d4da-1150-418c-87cc-4f26fd24938f" time="1376583307516" ignored="false" />
+    <file path="/index.html" changelist="b949d4da-1150-418c-87cc-4f26fd24938f" time="1376588669138" ignored="false" />
     <file path="/custom.css" changelist="b949d4da-1150-418c-87cc-4f26fd24938f" time="1376581967008" ignored="false" />
     <file path="/main.js" changelist="b949d4da-1150-418c-87cc-4f26fd24938f" time="1376581783402" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="7" selection-start="907" selection-end="907" vertical-scroll-proportion="0.6223507">
+            <state line="11" column="38" selection-start="450" selection-end="450" vertical-scroll-proportion="0.3603083">
               <folding />
             </state>
           </provider>
@@ -294,7 +294,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="907" selection-end="907" vertical-scroll-proportion="0.6223507">
+        <state line="11" column="38" selection-start="450" selection-end="450" vertical-scroll-proportion="0.3603083">
           <folding />
         </state>
       </provider>
