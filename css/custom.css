@@ -1,8 +1,11 @@
+body{
+    background-color:#12aa8f;
+    }
 
 .bg{
     background: url("../img/goodbye-wallpaper.png") repeat-y;
     background-size: cover;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .time h1 {
